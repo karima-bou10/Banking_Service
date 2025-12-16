@@ -1,4 +1,4 @@
-# Banking Service
+# Banking Service – Technical Test 1
 This project implements a simple banking service.
 
 ## Features
